@@ -26,6 +26,8 @@ Task Management: https://trello.com/b/6AOjiCoP/pennyworth
 
 ## Technologies
 
+Backend: https://github.com/ashleyamato/pennyworth.io
+
 * Javascript/ES6
 * React Native
 * Redux
@@ -35,3 +37,4 @@ Task Management: https://trello.com/b/6AOjiCoP/pennyworth
 
 ## Team Members
 * [Olivia Burgener](https://github.com/oaburgener)
+* [Ashley Amato](https://github.com/ashleyamato)
